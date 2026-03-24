@@ -3,14 +3,13 @@
 
 👯 I’m looking to collaborate on beginner-friendly development projects, web applications, and problem-solving practice  
 
-🤝 I’m looking for help with improving my English communication, interview preparation, and writing more optimized and clean code  
+🤝 I’m looking for help with interview preparation, communication skils and writing more optimized and clean code  
 
-🌱 I’m currently learning core computer science concepts, data structures and algorithms, and exploring backend development with Spring Boot  
+🌱 I’m currently learning core CS concepts, data structures and algorithms, and exploring backend development with Spring Boot  
 
 💬 Ask me about Java, DSA, problem-solving strategies, web development, and placement preparation  
 
-⚡ Fun fact: I focus on both coding and communication skills because I believe they are equally important for becoming industry-ready
-
+⚡ Fun fact: I value both coding and communication equally
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-singh-b996b9332) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhil79968@gmail.com) 

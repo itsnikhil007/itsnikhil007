@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Structures and Algorithms in Java, web development, and internship preparation  <br>👯 I’m looking to collaborate on coding projects, web development, and problem-solving practice  <br>🤝 I’m looking for help with improving my English communication, interview skills, and writing optimized code  <br>🌱 I’m currently learning DSA, core CS concepts, data science fundamentals, and professional communication  <br>💬 Ask me about Java, DSA, web development, and placement preparation  <br>⚡ Fun fact: I believe strong communication + strong coding skills is the best combo for career growth
+🔭 I’m currently working on Data Structures and Algorithms using Java, along with web development and internship preparation  
+
+👯 I’m looking to collaborate on beginner-friendly development projects, web applications, and problem-solving practice  
+
+🤝 I’m looking for help with improving my English communication, interview preparation, and writing more optimized and clean code  
+
+🌱 I’m currently learning core computer science concepts, data structures and algorithms, and exploring backend development with Spring Boot  
+
+💬 Ask me about Java, DSA, problem-solving strategies, web development, and placement preparation  
+
+⚡ Fun fact: I focus on both coding and communication skills because I believe they are equally important for becoming industry-ready
 
 
 ## 🌐 Socials:
